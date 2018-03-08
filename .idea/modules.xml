@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dart-Flutter-Get-Started-By-Parker07.iml" filepath="$PROJECT_DIR$/Dart-Flutter-Get-Started-By-Parker07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dart_flutter_01_startup_namer/dart_flutter_01_startup_namer.iml" filepath="$PROJECT_DIR$/dart_flutter_01_startup_namer/dart_flutter_01_startup_namer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dart_flutter_01_startup_namer/dart_flutter_01_startup_namer_android.iml" filepath="$PROJECT_DIR$/dart_flutter_01_startup_namer/dart_flutter_01_startup_namer_android.iml" />
     </modules>
   </component>
 </project>
