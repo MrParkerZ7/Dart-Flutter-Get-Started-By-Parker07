@@ -4,13 +4,41 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_01_startup_namer/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_01_startup_namer/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_01_startup_namer/packages" />
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_01_startup_namer/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_02_layouts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_02_layouts/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_02_layouts/test/packages" />
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_get_started_00/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_get_started_00/build" />
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_get_started_00/packages" />
       <excludeFolder url="file://$MODULE_DIR$/dart_flutter_get_started_00/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_parker_01_setup/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_parker_01_setup/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/dart_flutter_parker_01_setup/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_startup_namer/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_startup_namer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_startup_namer/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_startup_namer/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_01_startup_nameraa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_layouts/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_layouts/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_layouts/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_layouts/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_02_layoutsaa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_material_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_material_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_material_app/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_03_material_app/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setupaaa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_03_material_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_03_material_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_03_material_app/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_parker_03_material_app/test/packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
