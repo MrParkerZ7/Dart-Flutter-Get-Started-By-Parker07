@@ -9,6 +9,12 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_02_layouts/flutter_02_layouts_android.iml" filepath="$PROJECT_DIR$/flutter_02_layouts/flutter_02_layouts_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_03_material_app/flutter_03_material_app.iml" filepath="$PROJECT_DIR$/flutter_03_material_app/flutter_03_material_app.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_03_material_app/flutter_03_material_app_android.iml" filepath="$PROJECT_DIR$/flutter_03_material_app/flutter_03_material_app_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_04_multi_widgets_vh/flutter_04_multi_widgets_vh.iml" filepath="$PROJECT_DIR$/flutter_04_multi_widgets_vh/flutter_04_multi_widgets_vh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_04_multi_widgets_vh/flutter_04_multi_widgets_vh_android.iml" filepath="$PROJECT_DIR$/flutter_04_multi_widgets_vh/flutter_04_multi_widgets_vh_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_05_container/flutter_05_container.iml" filepath="$PROJECT_DIR$/flutter_05_container/flutter_05_container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_05_container/flutter_05_container_android.iml" filepath="$PROJECT_DIR$/flutter_05_container/flutter_05_container_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent.iml" filepath="$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent_android.iml" filepath="$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup.iml" filepath="$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup_android.iml" filepath="$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup_android.iml" />
     </modules>

@@ -28,12 +28,19 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
-      appBar: new AppBar(
-        title: new Text(widget.title),
-      ),
-      body: new Center(
-        child: new Text('Hello World'),
-      ),
+        appBar: new AppBar(
+          title: new Text(widget.title),
+        ),
+        body: new ListView(
+          children: [
+            new Center(
+              child: new Text('Hello World'),
+            ),
+            new Text('Fuck the World', style: new TextStyle(fontSize: 32.0),),
+            new Icon(Icons.star, color: Colors.red[500],),
+            new Image.asset('images/lake.jpg', fit: BoxFit.cover),
+          ],
+        )
     );
   }
 }
