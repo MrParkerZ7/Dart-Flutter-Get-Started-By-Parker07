@@ -86,6 +86,10 @@
       <excludeFolder url="file://$MODULE_DIR$/flutter_13_mix_state/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_13_mix_state/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_13_mix_state/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_14_tour_flutter_again/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_14_tour_flutter_again/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_14_tour_flutter_again/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_14_tour_flutter_again/test/packages" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_parker_01_setup/packages" />
