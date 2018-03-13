@@ -15,8 +15,20 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_05_container/flutter_05_container_android.iml" filepath="$PROJECT_DIR$/flutter_05_container/flutter_05_container_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent.iml" filepath="$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent_android.iml" filepath="$PROJECT_DIR$/flutter_06_grid_view_extent/flutter_06_grid_view_extent_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup.iml" filepath="$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup_android.iml" filepath="$PROJECT_DIR$/flutter_parker_01_setup/flutter_parker_01_setup_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_07_list_view/flutter_07_list_view.iml" filepath="$PROJECT_DIR$/flutter_07_list_view/flutter_07_list_view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_07_list_view/flutter_07_list_view_android.iml" filepath="$PROJECT_DIR$/flutter_07_list_view/flutter_07_list_view_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_08_stack/flutter_08_stack.iml" filepath="$PROJECT_DIR$/flutter_08_stack/flutter_08_stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_08_stack/flutter_08_stack_android.iml" filepath="$PROJECT_DIR$/flutter_08_stack/flutter_08_stack_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_09_card/flutter_09_card.iml" filepath="$PROJECT_DIR$/flutter_09_card/flutter_09_card.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_09_card/flutter_09_card_android.iml" filepath="$PROJECT_DIR$/flutter_09_card/flutter_09_card_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_10_interactivity/flutter_10_interactivity.iml" filepath="$PROJECT_DIR$/flutter_10_interactivity/flutter_10_interactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_10_interactivity/flutter_10_interactivity_android.iml" filepath="$PROJECT_DIR$/flutter_10_interactivity/flutter_10_interactivity_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_11_state/flutter_11_state.iml" filepath="$PROJECT_DIR$/flutter_11_state/flutter_11_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_11_state/flutter_11_state_android.iml" filepath="$PROJECT_DIR$/flutter_11_state/flutter_11_state_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_12_stateless/flutter_12_stateless.iml" filepath="$PROJECT_DIR$/flutter_12_stateless/flutter_12_stateless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_12_stateless/flutter_12_stateless_android.iml" filepath="$PROJECT_DIR$/flutter_12_stateless/flutter_12_stateless_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state.iml" filepath="$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state_android.iml" filepath="$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state_android.iml" />
     </modules>
   </component>
 </project>

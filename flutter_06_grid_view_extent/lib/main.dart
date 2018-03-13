@@ -36,7 +36,7 @@ class MyHomePage extends StatefulWidget {
 // The images are saved with names pic1.jpg, pic2.jpg...pic30.jpg.
 // The List.generate constructor allows an easy way to create
 // a list when objects have a predictable naming pattern.
-List<Container> _buildGridTileList(int count) {
+List<Container> _buildGridTileList(int count) { // GridView Just like builder it's gonna build list from model
   List<Container> containers = new List<Container>.generate(
       count,
           (int index) =>
