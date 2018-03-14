@@ -29,6 +29,30 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_12_stateless/flutter_12_stateless_android.iml" filepath="$PROJECT_DIR$/flutter_12_stateless/flutter_12_stateless_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state.iml" filepath="$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state_android.iml" filepath="$PROJECT_DIR$/flutter_13_mix_state/flutter_13_mix_state_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_14_themes_color/flutter_14_themes_color.iml" filepath="$PROJECT_DIR$/flutter_14_themes_color/flutter_14_themes_color.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_14_themes_color/flutter_14_themes_color_android.iml" filepath="$PROJECT_DIR$/flutter_14_themes_color/flutter_14_themes_color_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_15_images_internet/flutter_15_images_internet.iml" filepath="$PROJECT_DIR$/flutter_15_images_internet/flutter_15_images_internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_15_images_internet/flutter_15_images_internet_android.iml" filepath="$PROJECT_DIR$/flutter_15_images_internet/flutter_15_images_internet_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_16_fade_images/flutter_16_fade_images.iml" filepath="$PROJECT_DIR$/flutter_16_fade_images/flutter_16_fade_images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_16_fade_images/flutter_16_fade_images_android.iml" filepath="$PROJECT_DIR$/flutter_16_fade_images/flutter_16_fade_images_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_17_cached_images/flutter_17_cached_images.iml" filepath="$PROJECT_DIR$/flutter_17_cached_images/flutter_17_cached_images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_17_cached_images/flutter_17_cached_images_android.iml" filepath="$PROJECT_DIR$/flutter_17_cached_images/flutter_17_cached_images_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_18_basic_list/flutter_18_basic_list.iml" filepath="$PROJECT_DIR$/flutter_18_basic_list/flutter_18_basic_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_18_basic_list/flutter_18_basic_list_android.iml" filepath="$PROJECT_DIR$/flutter_18_basic_list/flutter_18_basic_list_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_19_horizontal_list/flutter_19_horizontal_list.iml" filepath="$PROJECT_DIR$/flutter_19_horizontal_list/flutter_19_horizontal_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_19_horizontal_list/flutter_19_horizontal_list_android.iml" filepath="$PROJECT_DIR$/flutter_19_horizontal_list/flutter_19_horizontal_list_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_20_long_list/flutter_20_long_list.iml" filepath="$PROJECT_DIR$/flutter_20_long_list/flutter_20_long_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_20_long_list/flutter_20_long_list_android.iml" filepath="$PROJECT_DIR$/flutter_20_long_list/flutter_20_long_list_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_21_list_several_type/flutter_21_list_several_type.iml" filepath="$PROJECT_DIR$/flutter_21_list_several_type/flutter_21_list_several_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_21_list_several_type/flutter_21_list_several_type_android.iml" filepath="$PROJECT_DIR$/flutter_21_list_several_type/flutter_21_list_several_type_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_22_grid_list/flutter_22_grid_list.iml" filepath="$PROJECT_DIR$/flutter_22_grid_list/flutter_22_grid_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_22_grid_list/flutter_22_grid_list_android.iml" filepath="$PROJECT_DIR$/flutter_22_grid_list/flutter_22_grid_list_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_23_handling_taps/flutter_23_handling_taps.iml" filepath="$PROJECT_DIR$/flutter_23_handling_taps/flutter_23_handling_taps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_23_handling_taps/flutter_23_handling_taps_android.iml" filepath="$PROJECT_DIR$/flutter_23_handling_taps/flutter_23_handling_taps_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_24_material_touch_rip/flutter_24_material_touch_rip.iml" filepath="$PROJECT_DIR$/flutter_24_material_touch_rip/flutter_24_material_touch_rip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_24_material_touch_rip/flutter_24_material_touch_rip_android.iml" filepath="$PROJECT_DIR$/flutter_24_material_touch_rip/flutter_24_material_touch_rip_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss.iml" filepath="$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss_android.iml" filepath="$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss_android.iml" />
     </modules>
   </component>
 </project>
