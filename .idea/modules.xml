@@ -53,6 +53,28 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_24_material_touch_rip/flutter_24_material_touch_rip_android.iml" filepath="$PROJECT_DIR$/flutter_24_material_touch_rip/flutter_24_material_touch_rip_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss.iml" filepath="$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss_android.iml" filepath="$PROJECT_DIR$/flutter_25_swipe_to_dismiss/flutter_25_swipe_to_dismiss_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_26_navigate_screen/flutter_26_navigate_screen.iml" filepath="$PROJECT_DIR$/flutter_26_navigate_screen/flutter_26_navigate_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_26_navigate_screen/flutter_26_navigate_screen_android.iml" filepath="$PROJECT_DIR$/flutter_26_navigate_screen/flutter_26_navigate_screen_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_27_data_to_new_screen/flutter_27_data_to_new_screen.iml" filepath="$PROJECT_DIR$/flutter_27_data_to_new_screen/flutter_27_data_to_new_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_27_data_to_new_screen/flutter_27_data_to_new_screen_android.iml" filepath="$PROJECT_DIR$/flutter_27_data_to_new_screen/flutter_27_data_to_new_screen_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_28_return_data_screen/flutter_28_return_data_screen.iml" filepath="$PROJECT_DIR$/flutter_28_return_data_screen/flutter_28_return_data_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_28_return_data_screen/flutter_28_return_data_screen_android.iml" filepath="$PROJECT_DIR$/flutter_28_return_data_screen/flutter_28_return_data_screen_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_29_fetch_data_internet/flutter_29_fetch_data_internet.iml" filepath="$PROJECT_DIR$/flutter_29_fetch_data_internet/flutter_29_fetch_data_internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_29_fetch_data_internet/flutter_29_fetch_data_internet_android.iml" filepath="$PROJECT_DIR$/flutter_29_fetch_data_internet/flutter_29_fetch_data_internet_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_30_authen_request/flutter_30_authen_request.iml" filepath="$PROJECT_DIR$/flutter_30_authen_request/flutter_30_authen_request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_30_authen_request/flutter_30_authen_request_android.iml" filepath="$PROJECT_DIR$/flutter_30_authen_request/flutter_30_authen_request_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_31_websockets/flutter_31_websockets.iml" filepath="$PROJECT_DIR$/flutter_31_websockets/flutter_31_websockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_31_websockets/flutter_31_websockets_android.iml" filepath="$PROJECT_DIR$/flutter_31_websockets/flutter_31_websockets_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_32_animated_list/flutter_32_animated_list.iml" filepath="$PROJECT_DIR$/flutter_32_animated_list/flutter_32_animated_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_32_animated_list/flutter_32_animated_list_android.iml" filepath="$PROJECT_DIR$/flutter_32_animated_list/flutter_32_animated_list_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_33_custom_appbar/flutter_33_custom_appbar.iml" filepath="$PROJECT_DIR$/flutter_33_custom_appbar/flutter_33_custom_appbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_33_custom_appbar/flutter_33_custom_appbar_android.iml" filepath="$PROJECT_DIR$/flutter_33_custom_appbar/flutter_33_custom_appbar_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_34_appbar_basic/flutter_34_appbar_basic.iml" filepath="$PROJECT_DIR$/flutter_34_appbar_basic/flutter_34_appbar_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_34_appbar_basic/flutter_34_appbar_basic_android.iml" filepath="$PROJECT_DIR$/flutter_34_appbar_basic/flutter_34_appbar_basic_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_35_expansion_tile/flutter_35_expansion_tile.iml" filepath="$PROJECT_DIR$/flutter_35_expansion_tile/flutter_35_expansion_tile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_35_expansion_tile/flutter_35_expansion_tile_android.iml" filepath="$PROJECT_DIR$/flutter_35_expansion_tile/flutter_35_expansion_tile_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar.iml" filepath="$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar_android.iml" filepath="$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar_android.iml" />
     </modules>
   </component>
 </project>
