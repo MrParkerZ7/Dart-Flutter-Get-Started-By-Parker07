@@ -75,6 +75,14 @@
       <module fileurl="file://$PROJECT_DIR$/flutter_35_expansion_tile/flutter_35_expansion_tile_android.iml" filepath="$PROJECT_DIR$/flutter_35_expansion_tile/flutter_35_expansion_tile_android.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar.iml" filepath="$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar_android.iml" filepath="$PROJECT_DIR$/flutter_36_tabbed_appbar/flutter_36_tabbed_appbar_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_37_gesture/flutter_37_gesture.iml" filepath="$PROJECT_DIR$/flutter_37_gesture/flutter_37_gesture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_37_gesture/flutter_37_gesture_android.iml" filepath="$PROJECT_DIR$/flutter_37_gesture/flutter_37_gesture_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_38_staggered_animation/flutter_38_staggered_animation.iml" filepath="$PROJECT_DIR$/flutter_38_staggered_animation/flutter_38_staggered_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_38_staggered_animation/flutter_38_staggered_animation_android.iml" filepath="$PROJECT_DIR$/flutter_38_staggered_animation/flutter_38_staggered_animation_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_39_css_color_package/flutter_39_css_color_package.iml" filepath="$PROJECT_DIR$/flutter_39_css_color_package/flutter_39_css_color_package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_39_css_color_package/flutter_39_css_color_package_android.iml" filepath="$PROJECT_DIR$/flutter_39_css_color_package/flutter_39_css_color_package_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_40_url_launcher/flutter_40_url_launcher.iml" filepath="$PROJECT_DIR$/flutter_40_url_launcher/flutter_40_url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_40_url_launcher/flutter_40_url_launcher_android.iml" filepath="$PROJECT_DIR$/flutter_40_url_launcher/flutter_40_url_launcher_android.iml" />
     </modules>
   </component>
 </project>
